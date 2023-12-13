@@ -1,3 +1,10 @@
+
+
+![1-Logo](https://github.com/siqueiranetopedro/leaflet-challenge/assets/141440536/e9ad60f3-5492-4d87-89f1-e92ba70e9b30)
+
+
+
+
 USGS Earthquake Data Visualization Challenge
 
 Overview
